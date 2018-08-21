@@ -2,6 +2,7 @@
 Spring boot sample and hands on
 
 ====================================
+
 Contact and feedback:
 
 https://github.com/TechPrudent/
