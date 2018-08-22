@@ -4,7 +4,7 @@ spring:
   profiles:
     active:
     - dev
-
+# security config
   security:
     user:
       name: user
@@ -12,10 +12,11 @@ spring:
       roles:
       - ADMIN
 
-
+# application info
 info:
   creator: adhithyan
 
+# actuator endpoints enable
 management:
   endpoints:
     web:
@@ -23,6 +24,7 @@ management:
         include:
         - '*'
 
+# logging and pattern
 logging:
   file: logs/app.log
   pattern:
@@ -33,7 +35,8 @@ logging:
 #    com:
 #      test:
 #        webservicedemo: ERROR
-        
+       
+# log level enablement 
 #debug: true
 #trace: true
 
