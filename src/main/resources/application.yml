@@ -5,6 +5,14 @@ spring:
     active:
     - dev
 
+  security:
+    user:
+      name: user
+      password: password
+      roles:
+      - ADMIN
+
+
 info:
   creator: adhithyan
 
@@ -28,3 +36,4 @@ logging:
         
 #debug: true
 #trace: true
+
