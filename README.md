@@ -26,4 +26,4 @@ https://plus.google.com/u/0/114035390968854033062
 
 ====================================
 
-![https://www.youtube.com/channel/UCVyvT1t3p-ciOeInzaSbIcQ](http://url/to/img.png)
+![Screenshot](https://github.com/TechPrudent/spring-boot-learning/blob/master/images/ALL%20THUMBNAILS%20FOR%20medium.jpg)
